@@ -1,0 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const env_1 = require("@humanwhocodes/env");
+const env = new env_1.Env();
+exports.default = env;
+//# sourceMappingURL=env.js.map
